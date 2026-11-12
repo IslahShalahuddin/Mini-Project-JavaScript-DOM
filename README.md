@@ -171,4 +171,4 @@ Project ini menjadi latihan untuk menerapkan JavaScript pada pengembangan fitur 
 **Assignment:** Day 22 – Building Interactivity Website with JavaScript  
 **Project:** Ultimate Bison Boot Sock – Hardcoded Product Detail  
 **Repository:** https://github.com/IslahShalahuddin/Mini-Project-JavaScript-DOM 
-**Last Commit:** feat:firts commit
+**Last Commit:** feat:Update README.md
